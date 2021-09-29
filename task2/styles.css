@@ -3,12 +3,10 @@
     background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+13/task2/sprites.png);
     height: 100px;
     width: 100px;
-    background-position-x: -200px ;
+    background-position-x: 500px ;
 }
 
 .icon:hover{
-    background-position-x:-200px ;
+    background-position-x:500px ;
     background-position-y: 100px;
-    position: relative;
-    bottom: 4px;
 }
