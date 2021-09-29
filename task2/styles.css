@@ -5,9 +5,10 @@
     width: 100px;
     background-position-x: -200px ;
 }
+
 .icon:hover{
     background-position-x:-200px ;
     background-position-y: 100px;
     position: relative;
-    bottom: 2px;
+    bottom: 4px;
 }
